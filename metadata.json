@@ -1,0 +1,12 @@
+{
+  "name": "Companio",
+  "description": "Smart senior care & memory companion app with 22 Indian scheduled languages, custom login & user profiles, voice alerts, emergency SOS, caregiver portal, Jan Aushadhi & ASHA worker connect, and AI companion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
